@@ -1,7 +1,3 @@
-Perfecto, aquí tienes **todo el README.md en un solo bloque**, limpio y listo para copiar y pegar:
-
----
-
 ```markdown
 # 🛡️ Hate Speech Classifier — NLP Project
 
@@ -175,5 +171,3 @@ MIT License
 ```
 
 ---
-
-Si quieres, puedo ayudarte a generar también el **Makefile**, el **pyproject.toml**, la estructura de carpetas**, o incluso automatizar todo con un script. ¿Seguimos con otro archivo o paso del proyecto?
