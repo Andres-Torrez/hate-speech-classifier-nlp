@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Hate Speech Classifier — NLP Project
 
 A machine learning system to automatically detect hate speech in YouTube comments, built for scalability and production readiness.
@@ -168,6 +167,4 @@ feature/branch → develop → main
 ## 📄 License
 
 MIT License
-```
-
 ---
