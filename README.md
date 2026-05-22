@@ -1,10 +1,10 @@
-# 🛡️ Hate Speech Classifier — NLP Project
+# Hate Speech Classifier — NLP Project
 
 A machine learning system to automatically detect hate speech in YouTube comments, built for scalability and production readiness.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
@@ -15,7 +15,7 @@ A machine learning system to automatically detect hate speech in YouTube comment
 
 ---
 
-## 🔍 Overview
+## Overview
 
 YouTube faces a growing problem with hate speech in video comments. This project builds an automated solution to detect and flag hate speech messages, allowing moderators to take action at scale.
 
@@ -27,7 +27,7 @@ YouTube faces a growing problem with hate speech in video comments. This project
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 project-ai-nlp/
 ├── data/
@@ -66,7 +66,7 @@ project-ai-nlp/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -84,7 +84,7 @@ project-ai-nlp/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.11+
@@ -112,7 +112,7 @@ uv run python -m ipykernel install --user --name=project-ai-nlp --display-name "
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Run the app
 ```bash
@@ -131,7 +131,7 @@ make test
 
 ---
 
-## 🔀 Development Workflow
+## Development Workflow
 feature/branch → develop → main
 
 1. Create your feature branch from develop  
@@ -156,15 +156,9 @@ feature/branch → develop → main
 
 ---
 
-## 👥 Team
+## Team
 
 | Name | GitHub |
 |---|---|
 | Andres Torrez | @Andres-Torrez |
-
----
-
-## 📄 License
-
-MIT License
 ---
