@@ -1,0 +1,41 @@
+model:
+  gap: !!python/object/apply:numpy._core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    Io51cRsNsD8=
+  name: SGDClassifier
+  params:
+    alpha_sgd: 0.023383932702137865
+    max_features: 4800
+    min_df: 15
+    model: SGDClassifier
+    ngram_max: 1
+    sublinear_tf: true
+  test_f1: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7FG4HoXr5T8=
+  train_f1: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zqrP1Vbs5z8=
+tfidf:
+  max_features: 4800
+  min_df: 15
+  ngram_range:
+  - 1
+  - 1
+  sublinear_tf: true
